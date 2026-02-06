@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "体育館ディスコ(instrumental)",
+  "base_artist": "≒JOY",
+  "createdAt": "2026-02-06T14:11:15.030858Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "体育館ディスコ",
+      "artist": "≒JOY",
+      "has_synced": false,
+      "path": "select/pl_01_体育館ディスコ_≒JOY.txt"
+    }
+  ]
+}
